@@ -1,0 +1,13 @@
+There are a number of mafia families. 
+
+Each family has at least 1 gang member under its payroll. Each gang member gets paid a fixed salary.   
+
+Each family has a headquarter location associated to it, and also its year of foundation.
+
+Each family has one or multiple tags associated that describe the type(s) of business the family is actively involved in.
+
+Each business is marked with a level of difficulty to maintain (scale of 1-5)
+
+Some mafia families are “subsidiary” family of another mafia family. We will refer to, a given family, along with all its subsidiaries, as a mafia group.
+
+Each gang member has some personal information recorded, as well as one and only one tag associated that describe the job title(not the same as mafia business) of the gang member.
